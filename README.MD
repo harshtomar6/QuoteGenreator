@@ -1,0 +1,1 @@
+A simple random quote generator app  for fcc project

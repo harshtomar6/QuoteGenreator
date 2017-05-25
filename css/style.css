@@ -1,0 +1,49 @@
+
+body{
+	background-color: #333;
+	color: #333;
+}
+.logo{
+	color: white;
+	text-decoration: none;
+	font-family: 'Lobster';
+	font-size: 30px;
+}
+.logo:hover{
+	text-decoration: none;
+}
+.main{
+	background-color: white;
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-top: 100px;
+	padding-bottom: 60px;
+	border-radius: 20px;
+	margin-top: 60px;
+}
+#quoteArea{
+  	text-align: center;
+  	font-family: 'Architects Daughter';
+}
+#authorArea{
+  	text-align: right;
+  	font-family: 'Architects Daughter';
+  	font-size: 16px;
+}
+.btn, .btn:focus{
+	background-color: #f55600;
+	color: white;
+	padding: 5px 20px 5px 20px;
+	font-family: 'Economica';
+	font-size: 20px;
+}
+.btn:hover{
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+	transform: scale(1.1);
+	transition: 0.2s;
+	color: white;
+}
+#footer,a{
+	color: white;
+	font-family: 'Exo';
+}
